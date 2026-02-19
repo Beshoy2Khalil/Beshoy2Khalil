@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Beshoy2Khalil&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Beshoy2Khalil)
-[![telegram badge](https://img.shields.io/badge/Beshoy2Khalil-grey?style=flat&logo=telegram)](https://t.me/USERNAME_HERE) <br>
+
 </div>
 
 <hr></hr>
